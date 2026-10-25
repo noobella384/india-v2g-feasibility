@@ -1,0 +1,7 @@
+data/mendeley_raw/**/*.xlsx
+data/mendeley_raw/**/*.xls
+data/cache/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+~$*

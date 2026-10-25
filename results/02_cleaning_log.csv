@@ -1,0 +1,8 @@
+check,value
+all: hours where generation and demand disagree by > 8% (dropped),170
+demand: outage / missing hours,193
+demand: hours still missing after 6-h interpolation,37
+nuclear: sensor spikes,26
+solar: mean night offset removed (MW),233.6
+solar: days flagged bad (frozen / stuck / missing),47
+solar: bad days list,"2021-09-04, 2021-09-05, 2021-09-27, 2021-10-04, 2021-10-06, 2021-12-01, 2022-01-04, 2022-01-11, 2022-01-12, 2022-01-22, 2022-02-01, 2022-03-04, 2022-03-07, 2022-03-08, 2022-03-09, 2022-05-04, 2022-05-05, 2022-05-06, 2022-08-11, 2022-08-16, 2023-01-28, 2023-06-09, 2023-12-21, 2024-01-08, 2024-01-19, 2024-01-22, 2024-01-29, 2024-04-22, 2024-04-25, 2024-05-22, 2024-05-23, 2024-05-24, 2024-06-02, 2024-06-07, 2024-06-08, 2024-06-09, 2024-06-10, 2024-06-11, 2024-06-12, 2024-06-14 ..."

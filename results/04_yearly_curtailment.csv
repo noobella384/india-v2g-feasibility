@@ -1,0 +1,5 @@
+year,days,curtail_GWh,curtail_GWh_55pct,days_with_curtailment,worst_day_GWh,lowest_midday_net_load_GW,avg_coal_committed_GW,curtail_pct_of_solar
+2022,352,19.75,0.0,5,10.49,98.35,134.81,0.02
+2023,363,2.86,0.0,1,2.86,112.57,149.26,0.0
+2024,347,115.91,0.0,33,23.8,115.95,157.24,0.1
+2025,172,1307.51,0.0,74,75.25,119.01,165.89,1.71
